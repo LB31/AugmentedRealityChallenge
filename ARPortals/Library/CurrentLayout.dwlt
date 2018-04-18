@@ -62,8 +62,8 @@ MonoBehaviour:
     y: 0
     width: 936
     height: 495
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 100, y: 122}
+  m_MaxSize: {x: 4000, y: 4022}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -91,7 +91,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 122}
   m_MaxSize: {x: 4000, y: 4022}
   vertical: 0
-  controlID: 9
+  controlID: 26
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -209,7 +209,7 @@ MonoBehaviour:
   m_MinSize: {x: 711, y: 471}
   m_MaxSize: {x: 18006, y: 14021}
   vertical: 0
-  controlID: 86
+  controlID: 62
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -253,7 +253,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 87
+  controlID: 63
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -439,7 +439,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 5a85fbff5886fbff5487fbff8489fbff7615fcff7416fcff7017fcffa019fcff6c18ffff7019ffff721affff9a1cfffff4f9ffff00000000e62e0000fa2e00001e3400005234000074340000503e00006e3e0000
+    m_ExpandedIDs: 8273feff8474feff8475feffaa77feff64b5feff66b6feff66b7feff8cb9feff4aedffffe2f9fffff4f9ffff00000000f02e0000fc380000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -534,19 +534,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Images
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Images
+  - Assets/Scripts
   m_LastFoldersGridSize: 16
   m_LastProjectPath: D:\Repositories\VonderlabsChallenge\ARPortals
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: aa2c0000
-    m_LastClickedID: 11434
+    m_SelectedIDs: 5e2c0000
+    m_LastClickedID: 11358
     m_ExpandedIDs: 00000000162b00003e2b000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -731,14 +731,14 @@ MonoBehaviour:
     height: 560
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 10135.623367681032
+  lastFramingTime: 752.9951086769777
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.31303155, y: 1.1655796, z: 3.5034506}
+    m_Target: {x: 317.88983, y: 438.0308, z: -136.6513}
     speed: 2
-    m_Value: {x: 0.31303155, y: 1.1655796, z: 3.5034506}
+    m_Value: {x: 317.88983, y: 438.0308, z: -136.6513}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -766,13 +766,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.2721596, y: -0.42188084, z: 0.13439725, w: 0.8543375}
+    m_Target: {x: 0.033863276, y: -0.041648425, z: 0.0014110625, w: 0.998564}
     speed: 2
-    m_Value: {x: 0.2721583, y: -0.4218788, z: 0.13439661, w: 0.85433346}
+    m_Value: {x: 0.03386305, y: -0.041648146, z: 0.0014110531, w: 0.9985573}
   m_Size:
-    m_Target: 7.8636174
+    m_Target: 877.2545
     speed: 2
-    m_Value: 7.8636174
+    m_Value: 877.2545
   m_Ortho:
     m_Target: 0
     speed: 2
