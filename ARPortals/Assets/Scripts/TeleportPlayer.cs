@@ -18,8 +18,12 @@ public class TeleportPlayer : MonoBehaviour {
    
     void OnTriggerEnter(Collider other)
      {
-        digitalWorld.layer = 0;
-        Debug.Log("Triggered");
+        if(other.name == "ARCamera") {
+            digitalWorld.layer = 0;
+            gameObject.SetActive(false);
+        }
+        
+        Debug.Log("Triggered", other.gameObject);
      }
     
 
